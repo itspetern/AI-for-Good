@@ -1,0 +1,1001 @@
+Name,AnimalType,AgeuponOutcome,Breed,Color,neutered/spayed,adopted
+1,1,1,Shetland Sheepdog Mix,0,1,0
+1,0,1,Domestic Shorthair Mix,0,1,0
+1,1,2,Pit Bull Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,1,2,Lhasa Apso/Miniature Poodle,0,1,0
+1,1,0,Cairn Terrier/Chihuahua Shorthair,1,0,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,American Pit Bull Terrier Mix,0,1,1
+0,1,1,Cairn Terrier,0,1,1
+0,0,2,Domestic Shorthair Mix,1,0,0
+0,1,2,Miniature Schnauzer Mix,0,1,1
+1,1,2,Pit Bull Mix,0,1,1
+1,1,2,Yorkshire Terrier Mix,1,1,0
+1,1,1,Great Pyrenees Mix,0,1,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,1,0,Pit Bull Mix,0,0,0
+1,0,2,Angora Mix,0,0,0
+1,1,1,Flat Coat Retriever Mix,1,1,0
+1,1,0,Queensland Heeler Mix,1,0,0
+1,0,1,Domestic Shorthair Mix,0,1,0
+1,1,2,Plott Hound/Boxer,0,1,1
+1,1,1,German Shepherd Mix,0,1,1
+1,1,0,German Shepherd Mix,1,1,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,American Staffordshire Terrier Mix,0,1,1
+1,1,2,Chihuahua Shorthair Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,3,Russian Blue Mix,0,1,0
+0,0,2,Domestic Shorthair Mix,0,1,0
+1,1,1,Labrador Retriever Mix,1,0,0
+0,0,0,Domestic Shorthair Mix,0,1,1
+1,1,2,Collie Smooth/German Shepherd,1,1,0
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+0,1,2,Labrador Retriever Mix,0,0,0
+1,1,2,Pit Bull Mix,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,3,Domestic Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+0,0,2,Domestic Longhair Mix,1,0,0
+1,0,2,Domestic Shorthair Mix,1,1,1
+1,1,3,Beagle,0,1,0
+1,0,3,Domestic Shorthair Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,1,0,0
+1,1,1,German Shepherd Mix,1,1,1
+0,1,3,Pit Bull/Labrador Retriever,0,0,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Blue Lacy Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,1,0,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,1,1,Chihuahua Shorthair Mix,0,0,0
+1,1,2,Black Mouth Cur Mix,1,1,0
+1,1,2,Dachshund/Beagle,0,1,1
+1,0,1,Domestic Shorthair Mix,0,0,0
+1,1,3,Yorkshire Terrier Mix,1,1,0
+1,0,0,Domestic Shorthair Mix,1,0,0
+1,1,2,Dachshund Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,1,0,0
+1,1,3,Maltese Mix,0,1,0
+1,1,1,Pointer Mix,1,1,0
+1,1,0,English Foxhound,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,0,Vizsla Mix,0,1,1
+1,1,2,Pit Bull Mix,0,1,0
+0,1,2,German Shepherd/Great Pyrenees,0,1,1
+1,0,1,Domestic Shorthair Mix,1,0,0
+1,1,2,Yorkshire Terrier Mix,0,1,0
+1,1,2,Cardigan Welsh Corgi/Chihuahua Shorthair,0,1,0
+1,0,1,Domestic Longhair,0,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,0,Chow Chow/Pit Bull,1,1,1
+0,0,2,Domestic Shorthair Mix,1,1,0
+1,1,1,Chihuahua Shorthair,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,0,Siamese Mix,0,0,0
+0,0,2,Domestic Shorthair Mix,0,0,0
+1,1,3,Pit Bull Mix,0,1,0
+0,1,1,Dachshund/Beagle,0,1,1
+1,0,0,Domestic Shorthair Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,1,0,0
+0,1,1,Labrador Retriever Mix,1,0,0
+0,0,1,Domestic Medium Hair Mix,0,1,1
+1,1,1,Plott Hound Mix,0,1,1
+1,1,2,Boxer/Great Dane,1,1,1
+1,1,3,Lhasa Apso,1,1,0
+1,1,2,German Shepherd Mix,1,1,0
+1,0,1,Domestic Shorthair Mix,1,1,1
+1,1,3,Beagle/Treeing Walker Coonhound,0,1,1
+1,1,1,Border Collie Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,1,1,1
+0,0,2,Domestic Shorthair Mix,1,0,0
+0,1,2,Border Terrier Mix,0,1,1
+1,1,2,Chihuahua Shorthair Mix,0,1,1
+1,1,2,Boxer Mix,0,1,0
+0,0,0,Domestic Medium Hair Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,1,0,0
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,1,2,Cairn Terrier Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,2,Chihuahua Shorthair Mix,1,1,0
+1,1,2,Dogo Argentino Mix,0,1,1
+1,1,3,Dachshund Mix,1,1,0
+1,1,2,Beagle Mix,0,1,0
+1,1,1,Chihuahua Shorthair/Dachshund,0,1,0
+1,1,2,Pit Bull Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Pit Bull Mix,0,0,0
+0,0,3,Domestic Shorthair Mix,0,0,0
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,1,Chihuahua Shorthair Mix,1,0,0
+1,0,0,Domestic Longhair Mix,0,0,0
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+1,1,2,Dachshund Mix,1,1,0
+1,1,3,Miniature Schnauzer/Miniature Poodle,1,1,1
+0,1,0,Labrador Retriever Mix,1,1,1
+0,0,3,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,1,0,1
+1,1,2,Pit Bull,1,1,1
+1,1,1,Pit Bull Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+1,1,3,Labrador Retriever Mix,0,1,0
+1,1,2,Pit Bull Mix,0,1,1
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,1,1,Chihuahua Shorthair/Jack Russell Terrier,1,1,1
+1,1,2,Chihuahua Shorthair Mix,1,1,0
+1,1,1,Pit Bull,0,1,0
+1,0,2,Siamese Mix,0,1,0
+1,1,2,Tibetan Terrier Mix,0,1,0
+0,0,2,Domestic Shorthair Mix,0,0,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,0,Miniature Pinscher/Chihuahua Shorthair,0,1,1
+0,0,0,Domestic Shorthair Mix,0,1,1
+0,0,1,Domestic Medium Hair Mix,0,1,1
+1,0,2,Domestic Medium Hair Mix,0,1,0
+1,0,0,Domestic Medium Hair Mix,0,1,1
+1,1,1,Labrador Retriever Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,1,1,Dachshund Mix,0,1,1
+1,1,1,Dachshund Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,2,Domestic Shorthair Mix,0,1,1
+1,1,1,Blue Lacy Mix,0,1,1
+0,1,1,Rat Terrier Mix,0,1,0
+1,1,2,Dachshund Longhair,0,1,0
+1,1,2,Pit Bull Mix,0,1,0
+1,1,2,Pit Bull Mix,0,1,1
+1,0,1,Domestic Longhair,0,1,1
+0,1,1,Dachshund/Chihuahua Shorthair,0,0,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,1,1,1
+1,1,3,Chihuahua Shorthair Mix,0,1,0
+1,0,2,Domestic Shorthair Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Border Collie Mix,1,1,1
+1,1,1,Labrador Retriever Mix,1,0,1
+1,1,3,Maltese,0,1,0
+0,0,0,Domestic Shorthair Mix,1,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,1,1,Labrador Retriever Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,2,Labrador Retriever/Rottweiler,1,1,1
+1,0,3,Domestic Shorthair Mix,0,1,0
+0,1,0,Dachshund/Manchester Terrier,0,1,1
+1,0,0,Domestic Shorthair Mix,1,1,0
+1,0,0,Domestic Shorthair Mix,0,0,1
+1,1,0,Plott Hound/Labrador Retriever,1,1,1
+1,1,3,Chihuahua Shorthair/Rat Terrier,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Siberian Husky,0,1,0
+1,1,2,Australian Cattle Dog Mix,0,1,0
+1,1,1,Pointer Mix,1,1,0
+1,1,2,Pit Bull Mix,0,1,0
+0,0,0,Domestic Medium Hair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,1,0,0
+1,1,2,Yorkshire Terrier/Miniature Poodle,0,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,2,German Shepherd Mix,0,1,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,3,Catahoula/Labrador Retriever,0,1,0
+0,1,1,Miniature Poodle Mix,1,1,1
+1,1,2,Jack Russell Terrier/Pit Bull,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,1,Queensland Heeler/Shetland Sheepdog,1,1,1
+0,0,1,Domestic Shorthair Mix,0,1,0
+1,1,1,Catahoula Mix,0,1,1
+1,1,1,Labrador Retriever Mix,1,1,1
+1,1,1,Labrador Retriever Mix,0,1,1
+1,1,3,Chihuahua Shorthair Mix,0,0,0
+0,0,1,Domestic Longhair Mix,1,0,0
+1,1,2,American Pit Bull Terrier Mix,0,1,0
+0,1,2,Dachshund Longhair Mix,0,1,1
+0,0,3,Domestic Longhair Mix,0,1,0
+1,1,2,German Shepherd Mix,0,1,1
+1,1,3,Labrador Retriever Mix,1,1,1
+1,0,1,Domestic Shorthair Mix,1,1,1
+1,1,1,Doberman Pinsch Mix,0,1,0
+1,0,1,Domestic Shorthair Mix,1,1,0
+1,0,3,Domestic Shorthair Mix,1,0,0
+0,1,0,Pointer Mix,0,0,0
+1,1,1,Dachshund/Jack Russell Terrier,0,1,1
+0,1,2,Miniature Poodle/Miniature Schnauzer,1,1,1
+1,1,2,Whippet Mix,0,1,1
+1,1,2,Australian Shepherd Mix,0,0,0
+0,1,2,Labrador Retriever Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Pit Bull Mix,0,1,0
+0,0,2,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,1,0,1
+1,1,1,Rat Terrier Mix,1,1,0
+1,1,0,English Pointer Mix,0,1,1
+1,1,1,Miniature Schnauzer/Yorkshire Terrier,1,1,1
+0,1,2,Cairn Terrier Mix,0,1,1
+1,1,3,Labrador Retriever/Pit Bull,1,1,0
+1,0,2,Domestic Shorthair Mix,1,1,0
+0,1,2,Great Dane,1,1,0
+1,1,2,Chihuahua Shorthair Mix,1,0,0
+1,1,2,Chesa Bay Retr,0,1,0
+1,1,3,German Shepherd,1,1,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,0,3,Domestic Shorthair Mix,1,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,1,Chihuahua Shorthair Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,0,1,1
+1,1,3,Plott Hound Mix,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Chihuahua Shorthair Mix,1,1,1
+1,0,3,Siamese Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,2,Chow Chow Mix,0,1,1
+0,0,2,Domestic Shorthair Mix,1,0,0
+0,1,3,English Pointer,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Pit Bull Mix,0,1,0
+1,1,1,Boxer Mix,1,0,0
+1,1,2,Basset Hound/Labrador Retriever,1,1,0
+1,1,2,Labrador Retriever Mix,0,1,0
+1,1,3,Airedale Terrier Mix,0,1,0
+1,1,1,Labrador Retriever/Chow Chow,0,1,1
+0,0,0,Domestic Shorthair Mix,0,1,0
+1,1,0,Beagle/German Shepherd,1,1,1
+1,0,0,Manx Mix,1,1,1
+0,0,2,Domestic Shorthair Mix,0,0,0
+1,1,2,Chihuahua Shorthair/Rat Terrier,0,1,0
+1,1,1,Pit Bull Mix,1,1,1
+1,1,2,Flat Coat Retriever Mix,1,1,1
+1,1,3,Cocker Spaniel,0,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,3,Chihuahua Shorthair Mix,0,1,1
+1,0,2,Domestic Longhair Mix,0,1,1
+1,1,3,Rat Terrier Mix,1,1,0
+0,1,1,Border Terrier/Chihuahua Shorthair,1,1,1
+1,1,2,Pit Bull Mix,0,1,0
+1,1,3,Chihuahua Shorthair Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,1,3,Pit Bull Mix,0,1,0
+1,1,1,Chihuahua Longhair Mix,1,1,1
+1,1,1,Jack Russell Terrier/Dachshund,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,2,German Shepherd,1,1,0
+1,1,2,Rottweiler Mix,1,1,0
+1,1,1,Siberian Husky Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,1,0,0
+1,1,1,Cardigan Welsh Corgi/Cardigan Welsh Corgi,0,1,1
+0,0,0,Domestic Shorthair Mix,1,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,2,Domestic Shorthair Mix,0,1,0
+0,1,1,Chihuahua Shorthair Mix,0,1,1
+0,1,1,Cairn Terrier Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,1,Domestic Shorthair,1,1,0
+1,1,3,Chihuahua Shorthair Mix,0,0,0
+1,1,3,Labrador Retriever Mix,0,1,0
+1,1,2,Shih Tzu,0,1,1
+1,1,1,Plott Hound Mix,0,1,0
+1,1,1,Australian Shepherd Mix,0,1,1
+1,1,2,Chihuahua Shorthair Mix,0,1,1
+1,0,0,Domestic Longhair Mix,1,0,0
+1,1,1,Labrador Retriever/Border Collie,1,1,1
+0,0,0,Siamese Mix,0,0,0
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+1,0,3,Domestic Medium Hair Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,0,Australian Cattle Dog Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,0,1,1
+0,1,2,Labrador Retriever/Great Dane,1,0,0
+1,1,3,Dachshund Mix,0,1,0
+1,1,1,Boxer Mix,0,1,0
+0,1,1,Labrador Retriever Mix,0,1,0
+0,1,2,Shih Tzu/Miniature Poodle,0,1,0
+1,0,0,Domestic Medium Hair Mix,0,1,1
+0,1,2,Pit Bull Mix,0,1,0
+0,1,0,Australian Cattle Dog Mix,1,1,1
+1,0,1,Domestic Shorthair Mix,1,1,1
+1,0,3,Domestic Shorthair Mix,1,1,1
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,1,2,Chihuahua Shorthair Mix,0,1,1
+0,1,0,Australian Cattle Dog Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,2,German Shepherd Mix,0,1,1
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,1,2,Pointer Mix,0,1,1
+0,0,1,Domestic Medium Hair Mix,0,0,0
+0,1,2,Miniature Poodle Mix,1,1,0
+1,1,3,Collie Smooth/Chow Chow,0,1,0
+0,0,1,Domestic Shorthair Mix,1,0,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Cocker Spaniel Mix,0,1,1
+1,1,3,Chihuahua Shorthair Mix,0,1,0
+0,1,1,Labrador Retriever Mix,0,1,1
+0,0,1,Siamese Mix,0,0,0
+1,1,1,Rottweiler/Labrador Retriever,1,1,1
+1,1,1,Chihuahua Shorthair Mix,1,1,1
+1,1,0,Boxer Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,1,2,Chihuahua Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,0
+0,1,2,Rat Terrier Mix,1,1,0
+1,1,1,German Shepherd/Siberian Husky,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,3,Dachshund,0,0,0
+1,1,0,Border Collie/Labrador Retriever,1,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,1,0,0
+0,0,1,Domestic Shorthair Mix,1,0,0
+1,0,0,Domestic Shorthair Mix,0,0,1
+1,1,2,Pit Bull Mix,0,0,0
+0,1,1,Collie Smooth/Labrador Retriever,0,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+0,0,1,Siamese Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,1,0,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,2,Plott Hound/Rhod Ridgeback,0,1,1
+1,1,2,Pit Bull Mix,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,1,1,1
+0,1,1,Chihuahua Shorthair Mix,0,1,1
+0,1,2,Pointer/Labrador Retriever,1,1,0
+1,1,1,Anatol Shepherd/Great Pyrenees,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Anatol Shepherd,1,1,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,2,Pit Bull Mix,0,1,1
+1,1,3,Great Dane,1,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,3,Domestic Shorthair Mix,1,1,0
+1,1,2,Australian Cattle Dog Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,1,1,0
+1,1,2,Chinese Sharpei/Australian Cattle Dog,0,1,1
+1,1,3,Labrador Retriever Mix,0,0,0
+1,1,1,Flat Coat Retriever Mix,1,1,1
+0,1,2,Labrador Retriever Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,1,0,Labrador Retriever Mix,0,0,0
+1,1,1,Rat Terrier Mix,0,1,0
+1,0,0,Domestic Longhair Mix,1,1,1
+1,1,2,Akita/Pit Bull,0,1,0
+1,1,3,American Bulldog Mix,0,1,0
+1,1,1,Labrador Retriever Mix,0,1,0
+1,0,3,Domestic Shorthair Mix,0,1,1
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+1,1,2,Pointer/Labrador Retriever,0,1,1
+1,1,2,Chihuahua Shorthair Mix,0,1,1
+1,0,1,Siamese Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,1,1,1
+1,1,1,Labrador Retriever,0,0,0
+1,0,1,Domestic Medium Hair Mix,1,1,0
+1,1,2,Chihuahua Shorthair/Rat Terrier,0,1,0
+1,1,2,Rottweiler Mix,1,0,0
+0,0,0,Domestic Shorthair,0,0,0
+0,0,0,Domestic Shorthair Mix,1,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Labrador Retriever,1,1,0
+1,1,1,Boxer Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,1,2,Jack Russell Terrier Mix,0,1,1
+1,1,1,Pit Bull/Dogue De Bordeaux,0,0,0
+1,1,2,Labrador Retriever/Chow Chow,0,1,1
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Bernese Mountain Dog/Rottweiler,0,1,1
+0,0,2,Domestic Shorthair Mix,0,1,0
+0,1,1,Plott Hound Mix,0,1,0
+1,1,2,English Bulldog,0,0,0
+1,1,1,Pit Bull Mix,0,1,0
+1,0,0,Domestic Medium Hair Mix,0,0,0
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+0,1,0,Labrador Retriever Mix,1,1,0
+1,1,3,Chihuahua Shorthair,0,1,0
+1,1,2,Pit Bull Mix,0,1,1
+1,1,1,Pointer Mix,0,1,1
+0,1,1,Chihuahua Longhair/Italian Greyhound,0,1,1
+1,1,0,Labrador Retriever/Blue Lacy,0,1,1
+1,1,1,Yorkshire Terrier Mix,1,0,0
+1,1,2,Pit Bull Mix,0,1,1
+1,1,2,Labrador Retriever Mix,1,1,0
+1,0,0,Siamese Mix,0,0,1
+1,1,2,American Staffordshire Terrier Mix,0,1,0
+1,1,2,Dachshund/Catahoula,0,1,0
+0,1,0,Dachshund Wirehair Mix,1,1,1
+1,0,3,Domestic Longhair Mix,0,1,0
+0,0,2,Domestic Shorthair Mix,0,1,0
+1,1,1,Labrador Retriever Mix,1,0,0
+1,0,3,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Medium Hair Mix,0,1,1
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,1,Blue Lacy/Pit Bull,0,1,0
+0,0,2,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,1,Siamese Mix,0,1,1
+0,1,3,Miniature Poodle Mix,0,1,1
+1,1,2,Dachshund Mix,0,1,1
+1,1,1,Boxer Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,0,2,Exotic Shorthair Mix,0,1,0
+1,0,1,Domestic Shorthair Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,1,Domestic Shorthair Mix,0,1,1
+1,0,1,Siamese Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Pit Bull Mix,1,1,0
+0,1,0,Australian Cattle Dog Mix,1,0,0
+0,1,2,Chihuahua Shorthair Mix,1,1,0
+1,1,2,Labrador Retriever/Chinese Sharpei,1,1,1
+1,1,3,Basset Hound,0,0,0
+1,1,1,Pit Bull Mix,0,0,1
+0,0,1,Domestic Shorthair Mix,0,1,1
+1,1,2,Cocker Spaniel Mix,0,1,0
+0,1,0,Chihuahua Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,1,0
+0,1,0,Australian Cattle Dog Mix,0,0,0
+1,1,1,Dachshund/Chihuahua Shorthair,1,0,0
+1,1,2,Cocker Spaniel Mix,1,1,0
+1,1,3,Blue Lacy/Collie Smooth,0,1,0
+0,0,0,Domestic Longhair Mix,0,1,1
+1,1,2,Pit Bull Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,0,0,1
+1,1,3,Miniature Poodle Mix,0,1,1
+1,1,0,Labrador Retriever Mix,0,0,0
+1,1,2,Pit Bull Mix,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,1,Domestic Shorthair Mix,1,0,0
+1,1,2,Black/Tan Hound Mix,1,1,0
+1,0,0,Domestic Shorthair Mix,1,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,0,3,Siamese Mix,0,1,0
+0,1,0,Labrador Retriever Mix,0,0,0
+1,1,3,Chihuahua Shorthair Mix,0,1,0
+1,1,1,Pit Bull Mix,0,1,0
+1,1,3,Norfolk Terrier/Border Terrier,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Border Collie Mix,1,1,0
+1,1,2,German Shepherd Mix,1,1,0
+1,1,2,Chihuahua Shorthair Mix,1,1,1
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+0,0,0,Domestic Shorthair Mix,1,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,1,1,Jack Russell Terrier Mix,0,1,1
+1,0,3,Domestic Shorthair Mix,0,1,0
+1,1,3,Pit Bull Mix,0,1,0
+1,1,2,Siberian Husky,1,0,0
+1,1,2,Scottish Terrier/Cairn Terrier,1,1,0
+0,0,2,Domestic Medium Hair Mix,0,1,0
+1,1,1,Labrador Retriever Mix,0,1,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,1,0,0
+1,0,1,Domestic Longhair Mix,0,0,1
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,0,1,Domestic Medium Hair Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,1,Pit Bull Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,1,1,1
+1,1,1,Labrador Retriever Mix,1,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,2,Chihuahua Longhair Mix,0,1,0
+0,1,0,Chihuahua Shorthair Mix,0,0,0
+1,1,2,Labrador Retriever Mix,0,1,0
+1,1,2,Pit Bull Mix,1,1,1
+1,1,0,Border Collie Mix,0,1,1
+1,1,1,Pit Bull Mix,0,0,0
+1,1,3,Yorkshire Terrier Mix,1,0,0
+1,1,2,American Bulldog Mix,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,3,Boxer,0,1,0
+1,1,1,Miniature Poodle,0,1,0
+1,0,1,Domestic Shorthair Mix,0,0,1
+1,0,2,Domestic Shorthair Mix,1,1,0
+1,1,2,Jack Russell Terrier Mix,0,0,0
+1,1,0,Chihuahua Shorthair Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,German Shepherd Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,3,Russian Blue Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,1,3,Doberman Pinsch,1,1,0
+1,0,1,Devon Rex Mix,0,1,0
+1,1,2,Treeing Walker Coonhound Mix,0,1,0
+1,1,2,Australian Cattle Dog/Labrador Retriever,1,0,0
+1,1,3,Australian Cattle Dog Mix,0,1,0
+1,1,2,Yorkshire Terrier/Maltese,0,1,1
+1,1,1,Rhod Ridgeback/Labrador Retriever,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+0,1,3,Australian Cattle Dog/Chinese Sharpei,0,0,0
+1,1,1,Labrador Retriever/Plott Hound,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+0,0,2,Domestic Shorthair Mix,0,0,0
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+0,1,0,Pit Bull Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,3,Domestic Medium Hair Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,1,0,0
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+1,0,3,Domestic Shorthair Mix,0,1,0
+1,1,3,German Shepherd/Collie Rough,1,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,2,Labrador Retriever Mix,0,1,0
+1,1,3,Chihuahua Shorthair Mix,1,1,0
+0,0,3,Domestic Medium Hair Mix,1,1,0
+1,1,2,Labrador Retriever/Black Mouth Cur,0,1,0
+0,0,0,Snowshoe Mix,0,1,1
+0,1,1,Chinese Sharpei/Airedale Terrier,0,1,1
+0,0,1,Domestic Shorthair Mix,1,0,0
+0,1,0,Dachshund/Chihuahua Shorthair,1,1,1
+1,0,2,Domestic Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,1,1,0
+1,0,2,Domestic Shorthair Mix,1,1,0
+1,1,2,Cardigan Welsh Corgi Mix,0,1,0
+0,1,2,Chihuahua Shorthair Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,1,0,Chihuahua Shorthair Mix,1,1,1
+1,0,2,Domestic Shorthair Mix,0,1,1
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,0,0,Snowshoe Mix,0,0,0
+1,1,3,Harrier,0,1,1
+1,0,0,Domestic Longhair Mix,0,0,0
+1,1,2,Miniature Poodle/Dachshund,0,1,1
+1,0,0,Domestic Medium Hair Mix,0,1,0
+0,0,2,Domestic Shorthair Mix,0,0,0
+0,1,0,Australian Kelpie Mix,1,0,0
+1,0,2,Domestic Shorthair Mix,1,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,1,0,German Shepherd Mix,0,0,0
+1,1,1,Labrador Retriever Mix,1,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Labrador Retriever Mix,1,1,1
+1,1,3,Harrier Mix,0,1,1
+1,1,2,Anatol Shepherd,1,1,0
+1,1,1,American Staffordshire Terrier Mix,0,0,0
+1,1,3,Basset Hound Mix,0,1,0
+1,1,2,Miniature Schnauzer Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,1,Rottweiler Mix,1,1,1
+1,1,1,Mexican Hairless Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,0,Labrador Retriever Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,0,1,0
+1,1,0,Redbone Hound Mix,1,1,1
+1,0,0,Domestic Shorthair Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,1,1,0
+1,1,2,Chihuahua Shorthair Mix,0,1,1
+1,0,3,Domestic Shorthair Mix,1,1,0
+1,1,2,Afghan Hound Mix,0,1,0
+1,1,2,Pointer Mix,0,1,0
+1,1,2,Pit Bull Mix,0,0,0
+0,1,0,Dachshund/Chihuahua Shorthair,0,1,1
+1,1,2,Pit Bull Mix,0,0,0
+1,1,2,Labrador Retriever Mix,1,1,0
+1,1,1,Border Collie/Greyhound,0,1,1
+1,0,3,Domestic Shorthair Mix,1,1,1
+0,1,0,Miniature Poodle Mix,1,0,0
+1,1,1,Catahoula Mix,0,1,1
+1,1,3,Swedish Vallhund Mix,0,1,1
+1,0,2,Domestic Shorthair Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,1,Australian Kelpie Mix,1,1,0
+1,1,1,Pit Bull Mix,0,0,1
+0,1,0,Border Collie Mix,1,0,0
+1,1,2,Papillon/Border Collie,1,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,1,Domestic Shorthair Mix,1,0,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,1,Miniature Schnauzer/Miniature Poodle,0,1,0
+1,0,1,Domestic Shorthair Mix,0,1,0
+0,1,0,Labrador Retriever/German Shepherd,0,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,1,3,Cocker Spaniel,0,0,0
+1,1,2,Boxer Mix,0,1,1
+1,1,1,Border Collie Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,3,Chow Chow Mix,1,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,2,Labrador Retriever Mix,0,0,0
+1,1,3,Labrador Retriever Mix,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,1,1,1
+0,1,1,Pit Bull Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,1,0,Australian Shepherd Mix,0,1,1
+0,1,0,Dachshund Mix,0,0,0
+1,1,1,German Shepherd Mix,0,1,0
+1,0,1,Domestic Shorthair Mix,0,1,0
+1,1,1,Blue Lacy Mix,0,1,0
+1,1,0,Dachshund Wirehair/Miniature Poodle,1,1,1
+0,1,0,Chihuahua Shorthair Mix,0,0,0
+0,0,0,Siamese Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,1,0,0
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,2,Miniature Schnauzer Mix,0,1,0
+1,1,1,English Pointer Mix,0,1,1
+1,1,1,Labrador Retriever/Australian Cattle Dog,1,1,1
+1,1,2,Chihuahua Shorthair Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,1,German Shepherd/Chow Chow,0,1,0
+0,1,2,Miniature Schnauzer Mix,1,1,1
+1,1,1,Pit Bull/Weimaraner,0,0,0
+1,1,2,Yorkshire Terrier Mix,1,0,0
+1,1,1,Pit Bull Mix,0,1,0
+1,1,2,Australian Kelpie Mix,1,1,1
+1,1,1,Queensland Heeler Mix,0,0,0
+1,1,0,Yorkshire Terrier/Chihuahua Shorthair,1,0,0
+1,1,2,Pit Bull Mix,0,1,1
+1,1,0,Australian Kelpie Mix,0,1,1
+1,0,3,Domestic Shorthair Mix,0,1,0
+1,1,2,Pit Bull Mix,0,1,0
+1,1,1,Labrador Retriever Mix,1,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,1,West Highland/Chihuahua Shorthair,0,1,0
+1,1,1,Labrador Retriever Mix,1,1,1
+1,0,2,Domestic Shorthair Mix,0,1,0
+0,1,0,Chihuahua Shorthair Mix,1,1,1
+0,0,1,Domestic Shorthair Mix,1,0,0
+1,0,0,Domestic Shorthair Mix,1,1,0
+1,0,1,Domestic Longhair Mix,0,1,1
+1,0,1,Siamese Mix,0,1,1
+1,1,1,Pit Bull Mix,1,1,0
+1,1,2,Dachshund Mix,0,1,0
+1,0,1,Domestic Medium Hair Mix,0,1,1
+1,0,0,Domestic Longhair Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,1,1,1
+1,0,0,Domestic Shorthair Mix,1,0,1
+1,1,1,Pointer Mix,1,1,1
+1,0,3,Domestic Shorthair Mix,0,1,0
+1,1,3,Chow Chow Mix,0,1,0
+0,0,0,Siamese Mix,1,0,0
+1,1,1,Border Collie/German Shepherd,1,1,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Dogo Argentino Mix,0,1,1
+0,1,3,Chihuahua Shorthair Mix,0,0,0
+1,1,3,Pit Bull Mix,0,1,0
+1,1,1,Great Pyrenees Mix,1,1,1
+1,1,2,Boxer/Australian Cattle Dog,0,1,0
+1,1,1,German Shepherd Mix,1,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,1,0,0
+1,0,2,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,2,Domestic Shorthair Mix,1,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,1,1,1
+1,1,2,Basset Hound Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,0,0,Domestic Longhair Mix,1,1,1
+1,0,0,Domestic Medium Hair Mix,0,1,1
+1,1,2,Shiba Inu Mix,0,1,0
+1,1,2,Pit Bull Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,1,0,0
+1,1,1,Plott Hound Mix,0,1,0
+1,1,2,Chihuahua Shorthair Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,0,1,1
+1,1,2,Beauceron Mix,1,1,0
+1,1,3,Chinese Sharpei Mix,1,1,0
+1,1,1,Chihuahua Shorthair Mix,1,0,0
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,1,Pekingese Mix,1,1,0
+1,1,0,Anatol Shepherd Mix,0,1,1
+1,0,3,Siamese Mix,0,1,0
+1,1,3,Catahoula/Pit Bull,0,1,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,0,1,Maine Coon Mix,0,1,1
+1,1,2,Rat Terrier Mix,1,1,0
+1,0,0,Domestic Medium Hair Mix,0,0,0
+1,1,0,Pit Bull Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,0,1,0
+1,1,3,Shih Tzu Mix,0,1,0
+1,1,3,Labrador Retriever Mix,0,1,0
+1,1,3,Schipperke Mix,1,1,0
+1,0,3,Domestic Longhair Mix,1,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,3,Domestic Longhair Mix,0,1,1
+1,1,1,Pointer/Boxer,0,1,0
+0,0,2,Domestic Shorthair Mix,0,0,0
+1,1,1,Labrador Retriever/Standard Poodle,1,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Rottweiler Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Australian Cattle Dog Mix,0,1,1
+1,1,3,Boxer Mix,0,1,0
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+1,1,2,German Shepherd/Bull Terrier,0,1,1
+1,1,2,Miniature Pinscher/Pomeranian,0,0,0
+1,0,1,Domestic Shorthair Mix,0,1,0
+1,1,2,Labrador Retriever Mix,1,1,0
+1,1,1,Beagle Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,0,0
+0,0,2,Domestic Shorthair Mix,1,1,1
+0,1,0,Chihuahua Shorthair/Pit Bull,0,0,0
+1,1,1,Pit Bull Mix,1,1,1
+1,1,3,Harrier Mix,0,1,0
+0,1,0,Australian Cattle Dog Mix,0,0,0
+1,1,2,Rat Terrier Mix,0,1,1
+0,1,1,Doberman Pinsch,1,1,0
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,2,Labrador Retriever Mix,0,0,0
+1,1,1,Miniature Poodle Mix,0,1,1
+0,0,1,Burmese,0,1,1
+1,1,0,Redbone Hound/Anatol Shepherd,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,2,Chihuahua Shorthair Mix,0,0,0
+1,1,1,Pit Bull Mix,1,0,0
+1,1,2,Pit Bull Mix,0,1,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+0,0,2,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,2,Maine Coon Mix,0,1,1
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+0,1,0,Pit Bull Mix,1,0,0
+0,0,0,Domestic Medium Hair Mix,0,0,0
+1,1,0,German Shepherd/Labrador Retriever,1,1,1
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,1,1,1
+1,1,2,Labrador Retriever,0,0,0
+1,0,0,Domestic Shorthair Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,1,0,0
+1,0,1,Domestic Shorthair Mix,1,1,0
+1,1,2,Pit Bull Mix,0,1,0
+1,1,3,Labrador Retriever Mix,1,1,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,1,Australian Shepherd/Australian Cattle Dog,0,1,1
+1,1,2,Boxer/Chow Chow,0,1,1
+0,0,0,Siamese Mix,0,0,0
+1,1,2,Dogo Argentino Mix,0,1,0
+1,1,3,Chow Chow/Australian Kelpie,0,1,0
+0,0,0,Domestic Shorthair Mix,0,1,1
+1,1,1,Pit Bull Mix,0,1,0
+1,1,3,Pit Bull Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,1,0,0
+1,1,1,Labrador Retriever Mix,0,1,0
+1,1,3,Pit Bull Mix,0,1,0
+1,1,2,Chihuahua Shorthair Mix,0,1,1
+1,1,1,Dachshund Mix,1,0,0
+1,1,1,Labrador Retriever/Chinese Sharpei,1,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,0,Chihuahua Shorthair Mix,0,1,1
+0,1,0,Great Pyrenees/Border Collie,0,1,0
+1,1,2,Catahoula Mix,0,1,0
+1,1,2,American Pit Bull Terrier Mix,0,1,1
+1,1,2,Pit Bull Mix,0,1,0
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+1,1,2,Chihuahua Shorthair Mix,1,1,1
+1,1,1,Jack Russell Terrier Mix,0,1,0
+1,1,2,Catahoula Mix,1,1,0
+1,1,2,Whippet/Chihuahua Shorthair,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Tibetan Terrier Mix,0,1,0
+1,1,2,American Pit Bull Terrier Mix,1,1,0
+0,1,1,Chihuahua Shorthair Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Medium Hair,0,1,1
+1,1,2,Labrador Retriever Mix,1,1,0
+0,1,0,Labrador Retriever Mix,1,0,0
+1,1,2,Pit Bull Mix,0,1,0
+0,0,2,Domestic Shorthair Mix,1,0,0
+0,0,2,Domestic Medium Hair Mix,1,0,0
+1,1,3,Border Collie,0,1,0
+0,1,1,Labrador Retriever Mix,0,0,0
+1,1,2,Jack Russell Terrier/Australian Cattle Dog,1,1,1
+0,0,0,Domestic Shorthair Mix,1,0,0
+1,1,3,Dachshund Mix,0,1,0
+0,0,1,Domestic Shorthair Mix,0,1,1
+1,1,2,Jack Russell Terrier/Australian Cattle Dog,1,1,0
+1,1,2,Catahoula/Australian Shepherd,0,1,1
+0,1,0,Labrador Retriever Mix,1,0,0
+0,0,0,Domestic Shorthair Mix,0,1,1
+1,1,2,Collie Rough Mix,0,1,0
+1,1,2,Staffordshire Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,1,0,0
+1,1,2,Silky Terrier Mix,0,1,0
+1,1,2,Bruss Griffon Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,1,1,1
+1,1,2,Jack Russell Terrier Mix,0,1,0
+1,1,3,Chihuahua Shorthair Mix,0,1,0
+1,1,2,Siberian Husky Mix,1,1,0
+1,1,3,Siberian Husky Mix,0,0,0
+1,1,1,Pit Bull Mix,0,1,1
+1,1,3,Chihuahua Shorthair Mix,0,0,0
+0,1,0,Labrador Retriever Mix,0,0,0
+1,0,2,Domestic Shorthair Mix,0,1,0
+0,0,0,Manx Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,0,0,0
+1,1,2,Beagle Mix,0,1,0
+0,0,2,Domestic Shorthair Mix,1,1,0
+1,1,3,Vizsla,0,1,1
+1,1,2,Staffordshire Mix,0,1,0
+1,1,2,German Shepherd,1,0,0
+1,1,0,Boxer Mix,0,1,1
+1,1,1,Shih Tzu Mix,0,0,0
+0,1,1,Chihuahua Shorthair Mix,1,0,0
+0,0,2,Domestic Shorthair,0,0,0
+1,1,2,Australian Shepherd Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,1,1,1
+1,1,0,Miniature Pinscher/Chihuahua Shorthair,0,1,1
+1,0,1,Domestic Longhair Mix,1,0,0
+1,1,2,Pit Bull Mix,0,1,0
+1,1,1,Miniature Poodle Mix,0,1,1
+1,1,2,Chihuahua Shorthair Mix,0,0,0
+1,1,1,Rat Terrier Mix,0,1,1
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,2,Pit Bull Mix,0,1,0
+1,1,2,Pit Bull Mix,1,1,1
+1,1,2,Shih Tzu,0,1,1
+1,1,2,Chihuahua Shorthair Mix,0,1,0
+1,1,1,Pit Bull Mix,0,1,0
+1,1,0,Chihuahua Shorthair Mix,0,1,1
+0,0,2,Domestic Shorthair Mix,1,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,0,Beagle/Pug,0,1,1
+1,1,2,Chihuahua Longhair Mix,0,1,0
+1,1,1,Border Terrier/Yorkshire Terrier,1,1,1
+1,0,1,Domestic Shorthair Mix,0,1,0
+1,1,2,Pug/Beagle,0,1,1
+1,1,2,Boerboel Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,3,Golden Retriever Mix,0,1,0
+0,1,0,Shih Tzu,0,1,1
+1,1,1,Doberman Pinsch/Vizsla,0,1,0
+1,0,0,Domestic Shorthair Mix,1,0,0
+1,0,2,Domestic Shorthair Mix,0,1,1
+1,0,3,Domestic Shorthair Mix,1,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,1,0,0
+1,0,1,Domestic Shorthair Mix,1,1,1
+0,1,1,Jack Russell Terrier Mix,0,0,0
+1,1,3,Australian Shepherd Mix,1,1,0
+1,0,1,Bengal Mix,0,1,1
+1,1,3,Jack Russell Terrier Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,0,Labrador Retriever/Blue Lacy,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Shorthair Mix,1,1,1
+1,0,0,Siamese Mix,0,1,1
+1,1,1,Rat Terrier Mix,0,1,1
+1,1,1,Pit Bull Mix,1,1,0
+1,1,2,Bichon Frise Mix,0,1,0
+0,1,0,Labrador Retriever,1,0,0
+1,1,2,Border Collie Mix,1,1,1
+1,0,1,Domestic Shorthair Mix,0,1,0
+0,1,1,Cairn Terrier Mix,0,0,0
+1,1,1,German Shepherd/Akita,0,1,1
+1,1,1,Miniature Pinscher Mix,1,1,0
+1,1,2,Miniature Poodle Mix,0,1,0
+1,1,2,Pit Bull/Blue Lacy,1,1,0
+1,1,2,Labrador Retriever Mix,1,1,0
+1,1,1,Pointer Mix,0,1,1
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,0,0,Domestic Medium Hair Mix,0,1,0
+1,1,2,Pit Bull Mix,0,1,0
+1,0,3,Domestic Longhair Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,2,Yorkshire Terrier/Miniature Poodle,1,1,0
+0,0,1,Domestic Shorthair Mix,0,0,0
+1,1,1,Pit Bull Mix,0,0,0
+1,0,0,Domestic Medium Hair Mix,0,1,1
+1,1,2,Chihuahua Shorthair Mix,1,1,0
+1,1,2,Pointer/Collie Smooth,0,1,1
+1,0,2,Domestic Medium Hair Mix,0,1,1
+1,1,1,Pit Bull Mix,0,1,1
+1,0,1,Domestic Shorthair Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,1,1,1
+1,1,1,Miniature Poodle/Miniature Schnauzer,0,1,1
+1,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Yorkshire Terrier,0,1,0
+1,1,2,Chihuahua Shorthair Mix,1,1,0
+1,0,1,Domestic Medium Hair Mix,1,1,1
+0,1,3,Catahoula Mix,0,0,0
+1,1,3,Border Collie Mix,1,0,0
+0,1,2,Chihuahua Shorthair Mix,0,1,1
+1,1,2,American Staffordshire Terrier/Labrador Retriever,0,1,1
+1,0,1,Domestic Shorthair Mix,1,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,Manchester Terrier Mix,1,1,0
+0,1,0,Chihuahua Longhair Mix,1,0,0
+1,1,1,Chihuahua Shorthair Mix,0,1,1
+1,1,2,Pit Bull Mix,0,1,0
+0,0,0,Domestic Shorthair Mix,0,1,1
+1,1,1,Rat Terrier/Cardigan Welsh Corgi,1,1,1
+1,1,0,Chihuahua Shorthair Mix,1,1,1
+0,1,2,Jack Russell Terrier/Dachshund,1,1,0
+1,1,2,Chihuahua Shorthair Mix,0,0,0
+0,1,1,Miniature Pinscher Mix,0,0,0
+1,1,2,Labrador Retriever Mix,1,1,1
+1,1,2,Dachshund Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,0,3,Domestic Medium Hair Mix,1,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+1,1,0,Chihuahua Shorthair,0,1,1
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,2,Border Collie/Chow Chow,1,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,2,English Setter Mix,0,0,0
+0,1,1,Miniature Poodle Mix,0,1,0
+1,0,0,Domestic Shorthair Mix,1,1,1
+1,0,0,Domestic Shorthair Mix,1,1,1
+1,0,0,Domestic Shorthair Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,0,0,0
+0,1,0,Chihuahua Shorthair Mix,1,0,0
+1,1,1,Dachshund Mix,0,1,0
+1,1,1,Pomeranian Mix,0,1,0
+1,1,2,Pit Bull Mix,0,1,1
+1,1,1,Chihuahua Shorthair Mix,1,1,1
+1,0,2,Domestic Longhair Mix,0,1,0
+1,1,1,Boxer/Pit Bull,0,1,0
+1,0,2,Domestic Shorthair Mix,0,1,1
+1,1,2,Labrador Retriever Mix,0,1,0
+1,1,2,Basset Hound Mix,0,1,0
+1,1,2,Pit Bull Mix,0,1,0
+1,1,0,Greater Swiss Mountain Dog Mix,0,0,1
+1,0,1,Domestic Shorthair Mix,1,1,0
+1,1,2,Labrador Retriever Mix,0,1,1
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,German Shepherd,1,1,0
+1,0,1,Domestic Shorthair Mix,0,1,1
+1,1,3,Chihuahua Shorthair Mix,0,1,1
+1,1,2,Border Collie Mix,1,1,1
+1,0,2,Domestic Shorthair Mix,0,1,1
+1,1,1,Chihuahua Shorthair Mix,0,1,0
+0,1,1,German Shepherd Mix,0,1,1
+1,0,2,Domestic Shorthair Mix,0,0,0
+0,1,0,Chihuahua Shorthair Mix,1,0,0
+0,0,2,Domestic Shorthair Mix,0,0,0
+1,0,1,Domestic Longhair Mix,0,1,1
+0,0,1,Domestic Shorthair Mix,0,1,1
+1,1,1,Chihuahua Shorthair Mix,0,1,0
+1,1,3,Labrador Retriever/Doberman Pinsch,0,1,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,3,Pit Bull Mix,0,1,0
+1,0,2,Domestic Shorthair Mix,0,1,0
+1,1,3,Dachshund/Bull Terrier,0,1,0
+1,0,2,Domestic Shorthair Mix,0,1,0
+0,0,1,Domestic Shorthair Mix,0,1,0
+1,1,2,Australian Kelpie Mix,1,1,1
+1,1,2,German Shepherd Mix,0,1,1
+0,1,3,Dachshund Mix,0,0,0
+1,0,1,Siamese Mix,0,1,0
+1,0,2,Domestic Shorthair,0,1,0
+0,0,1,American Shorthair Mix,1,0,0
+0,0,0,Domestic Shorthair Mix,0,0,0
+1,1,1,Pit Bull Mix,0,1,1
