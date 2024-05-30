@@ -36,3 +36,7 @@ def naive_bayes(table, evidence_row, target):
   neg,pos = compute_probs(neg_1, pos_1)
   #return your 2 results in a list
   return [neg, pos]
+
+
+
+
