@@ -37,6 +37,13 @@ def naive_bayes(table, evidence_row, target):
   #return your 2 results in a list
   return [neg, pos]
 
+def metrics(zipped_list):
+  #asserts here
+  assert isinstance(zipped_list, list), 'zipped_list should be a list'
+  assert all(isinstance(item, list) for item in zipped_list), 'zipped_list should be a list of lists'
+  assert all(len(item) == 2 for item in zipped_list), 'zipped_list should be a zipped list of pairs'
+  assert all(isinstance(pair, list) and len(pair) >= 2 and all(isinstance(value, int) and value >= 0 for value in pair) for pair in zipped_list), 'zipped_list should be a zipped list where each pair contains two non-negative integers'
+
 
 
 
